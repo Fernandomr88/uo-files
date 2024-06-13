@@ -1,0 +1,260 @@
+GIMP Palette
+Name: dragonmod11-gimp
+Columns: 16
+#
+ 32  56  19	Grass 0
+ 35  60  20	Grass 2
+ 40  69  23	Grass 4
+ 46  80  27	Grass 6
+ 50  86  29	Grass 8
+ 52  89  30	Grass 10
+ 55  95  32	Grass 12
+ 57  98  33	Grass 14
+ 58 101  34	Grass 16
+ 59 102  34	Grass 18
+ 60 104  35	Grass 20
+ 62 107  36	Grass 22
+ 65 113  38	Grass 24
+ 71 123  41	Grass 26
+ 80 138  46	Grass 28
+ 81 141  47	Grass 30
+  0  74  35	Forest 0
+  0  80  38	Forest 2
+  0  92  44	Forest 4
+  0 106  50	Forest 6
+  0 114  54	Forest 8
+  0 118  56	Forest 10
+  0 126  60	Forest 12
+  0 130  62	Forest 14
+  0 134  64	Forest 16
+  0 136  65	Forest 18
+  0 138  65	Forest 20
+  0 142  67	Forest 22
+  0 150  71	Forest 24
+  0 164  78	Forest 26
+  0 184  87	Forest 28
+  0 188  89	Forest 30
+  0   0 102	Ocean -5
+  0   0 153	Water -5
+  0   0 179	Water 5
+  0   0 204	Water 15
+  0   0 198	Water 25
+  7  76  76	Moss 0
+ 14 140 140	Swamp 0
+164 215  39	GrassBump 0
+178 229  22	GrassBump 10
+197 240  81	GrassBump 20
+204 246   7	GrassBump 30
+206 147  29	Furrows 0
+211 150  29	Furrows 10
+215 153  30	Furrows 20
+216 154  30	Furrows 30
+118  80 112	Stars 0
+127 127   1	Desert 0
+139 139   1	Desert 2
+159 159   1	Desert 4
+181 181   1	Desert 6
+197 197   1	Desert 8
+205 205   1	Desert 10
+215 215   1	Desert 12
+225 225   1	Desert 14
+229 229   1	Desert 16
+233 233   1	Desert 18
+239 239   1	Desert 20
+243 243   1	Desert 22
+245 245   1	Desert 24
+254 254   4	Desert 26
+254 254  28	Desert 28
+254 254  66	Desert 30
+ 70  59  70	Mountain 0
+ 76  64  76	Mountain 5
+ 87  74  87	Mountain 10
+ 99  84  99	Mountain 15
+108  91 108	Mountain 20
+112  95 112	Mountain 25
+117  99 117	Mountain 30
+123 104 123	Mountain 35
+125 106 125	Mountain 40
+127 107 127	Mountain 45
+130 110 130	Mountain 50
+133 112 133	Mountain 55
+134 113 134	Mountain 60
+140 119 140	Mountain 65
+151 132 151	Mountain 70
+168 152 168	Mountain 75
+102  89  62	Cave 0
+106  92  64	Cave 2
+111  96  67	Cave 4
+119 103  72	Cave 6
+122 106  74	Cave 8
+125 109  76	Cave 10
+129 112  78	Cave 12
+130 113  79	Cave 14
+132 115  80	Cave 16
+134 116  81	Cave 18
+135 117  82	Cave 20
+136 118  82	Cave 22
+140 122  85	Cave 24
+147 128  89	Cave 26
+157 136  95	Cave 28
+159 138  96	Cave 30
+ 40  57  89	Snow 0
+ 43  62  97	Snow 2
+ 49  70 111	Snow 4
+ 56  80 126	Snow 6
+ 61  88 138	Snow 8
+ 63  91 143	Snow 10
+ 66  95 150	Snow 12
+ 69  99 157	Snow 14
+ 71 102 160	Snow 16
+ 72 103 163	Snow 18
+ 74 106 167	Snow 20
+ 75 108 170	Snow 22
+ 76 109 171	Snow 24
+ 80 114 178	Snow 26
+ 97 127 185	Snow 28
+123 149 197	Snow 30
+ 75  96  32	Jungle 0
+ 82 105  35	Jungle 2
+ 93 120  40	Jungle 4
+107 137  46	Jungle 6
+116 149  50	Jungle 8
+120 155  52	Jungle 10
+126 162  54	Jungle 12
+132 170  57	Jungle 14
+135 173  58	Jungle 16
+137 176  59	Jungle 18
+140 180  60	Jungle 20
+142 183  61	Jungle 22
+144 185  62	Jungle 24
+150 192  66	Jungle 26
+160 198  84	Jungle 28
+176 208 113	Jungle 30
+ 86  65  42	Dirt 0
+ 95  71  46	Dirt 2
+108  81  52	Dirt 4
+123  93  60	Dirt 6
+134 101  65	Dirt 8
+139 104  67	Dirt 10
+146 110  71	Dirt 12
+153 115  74	Dirt 14
+155 116  75	Dirt 16
+158 119  77	Dirt 18
+162 121  78	Dirt 20
+165 124  80	Dirt 22
+166 125  80	Dirt 24
+173 131  85	Dirt 26
+181 143 102	Dirt 28
+193 161 127	Dirt 30
+ 72  13 115	Cobblestones 0
+ 79  14 126	Cobblestones 2
+ 90  16 144	Cobblestones 4
+103  18 164	Cobblestones 6
+112  20 179	Cobblestones 8
+117  21 186	Cobblestones 10
+122  22 195	Cobblestones 12
+128  23 204	Cobblestones 14
+130  23 207	Cobblestones 16
+133  24 211	Cobblestones 18
+135  24 216	Cobblestones 20
+138  25 220	Cobblestones 22
+139  25 222	Cobblestones 24
+145  28 230	Cobblestones 26
+156  50 233	Cobblestones 28
+172  84 236	Cobblestones 30
+ 70  70 102	Black 0
+ 89  89 128	Black 10
+107 107 153	Black 20
+125 125 179	Black 30
+115  13 115	No Draw 0
+126  14 126	No Draw 10
+144  16 144	No Draw 20
+164  18 164	No Draw 30
+109  47  20	Dark Wood 0
+119  50  21	Dark Wood 10
+136  57  24	Dark Wood 20
+155  66  28	Dark Wood 30
+201 124  92	Light Wood 0
+201 125  93	Light Wood 10
+202 127  95	Light Wood 20
+205 134 104	Light Wood 30
+222  87  70	Planks 0
+223  89  72	Planks 10
+223  90  74	Planks 20
+226 106  91	Planks 30
+ 89  34  26	Red Brick 0
+102  39  30	Red Brick 10
+140  53  42	Red Brick 20
+179  68  53	Red Brick 30
+221 121  13	Light Sandstone Brick 0
+227 124  14	Light Sandstone Brick 10
+231 126  14	Light Sandstone Brick 20
+232 127  14	Light Sandstone Brick 30
+164  55  55	Brown Brick 0
+167  56  56	Brown Brick 10
+173  58  58	Brown Brick 20
+180  60  60	Brown Brick 30
+121 151 134	White Marble 0
+133 168 148	White Marble 10
+151 184 165	White Marble 20
+167 196 180	White Marble 30
+ 95 197 137	Green Marble 0
+ 97 198 138	Green Marble 10
+ 98 198 139	Green Marble 20
+107 201 145	Green Marble 30
+132 148 165	Silver Marble 0
+139 154 170	Silver Marble 10Untitled
+143 158 173	Silver Marble 20
+151 165 179	Silver Marble 30
+208 208 148	Tan Marble 0
+209 209 151	Tan Marble 10
+212 212 158	Tan Marble 20
+215 215 164	Tan Marble 30
+ 92 109 126	Medium Stone Floorplate 0
+ 94 111 128	Medium Stone Floorplate 10
+ 97 115 133	Medium Stone Floorplate 20
+102 120 139	Medium Stone Floorplate 30
+172 185 176	Light Stone Floorplate 0
+174 186 178	Light Stone Floorplate 10
+179 191 183	Light Stone Floorplate 20
+184 195 188	Light Stone Floorplate 30
+ 43 173 167	Dungeon 0
+ 45 181 175	Dungeon 10
+ 46 184 178	Dungeon 20
+ 47 187 181	Dungeon 30
+ 82 109 136	Flagstone 0
+ 84 111 139	Flagstone 10
+ 87 115 144	Flagstone 20
+ 91 120 150	Flagstone 30
+179 149   0	Pyramid 0
+204 170   0	Pyramid 10
+223 185   0	Pyramid 20
+242 202   0	Pyramid 30
+215 155   4	Dark Sandstone Floorplate 0
+219 157   4	Dark Sandstone Floorplate 10
+227 163   4	Dark Sandstone Floorplate 20
+237 170   4	Dark Sandstone Floorplate 30
+229   5   5	Lava 0
+235   5   5	Lava 10
+239   5   5	Lava 20
+241   5   5	Lava 30
+125  82 136	Grey Tile 0
+128  84 139	Grey Tile 10
+133  87 144	Grey Tile 20
+138  91 150	Grey Tile 30
+162  23  34	Red Tile 0
+165  23  35	Red Tile 10
+169  24  36	Red Tile 20
+183  25  38	Red Tile 30
+107 177 172	Blue Tile 0
+111 179 174	Blue Tile 10
+119 183 178	Blue Tile 20
+128 188 184	Blue Tile 30
+197  22 143	Cave Entrance 0
+200  22 145	Cave Entrance 10
+207  23 150	Cave Entrance 20
+216  24 157	Cave Entrance 30
+  0   0   0	Unused
+  0   0   0	Unused
+  0   0   0	Unused
+ 82  47  89	Cavewall 20

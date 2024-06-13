@@ -1,0 +1,33 @@
+A few comments regarding this version:
+- You MUST read the SphereRevisions55R2.txt file to catch up with the changes.
+  Feel free to post comments on the sphere forums regarding this, but please
+  try not to report things already reported in previous threads, it generates
+  a bit of entropy.
+- anti-speedhack measures are not implemented - stuff for the next version.
+- some errors that were probably not printing with .55i might show up. This doesn't
+  necessarily mean things were working better on .55i, just that no errors were
+  being shown. 
+- A new keyword in sphere.ini (EXPERIMENTAL=...) controls wether some features/
+  fixes are actually activated. When you see mention to an EF_xxx flag, it goes
+  into this keyword. Read the revisions file for more information.
+- it's now 2 weeks since the last revision, 3 weeks since we started working on this,
+  hopefully it was worth it. Most of the apparent inactivity was due to a lot of
+  work getting Sphere stable on Linux.
+
+As of this release, scripts will be released in a different ZIP file. It makes 
+it easier to mantain and update, without the added traffic that downloading the
+scripts would mean for everyone who just needs the binary. They can be used by
+either the Linux or the Windows version.
+
+The files:
+SphereServer55R2-scripts.zip	- scripts for any version
+SphereServer55R2-win32.zip	- binary for windows, unpack into the same folder
+SphereServer55R2-rh73.zip	- binary for linux, compiled on RedHat 7.3 (most tested)
+SphereServer55R2-Mdk8.0.zip	- binary for linux, compiled on Mandrake 8.0
+   
+
+Right now, we'll wait a couple days for comments & feedback, and then proceed
+mainly into fixing bugs.
+
+
+Have fun.
